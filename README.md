@@ -9,11 +9,11 @@ Visit the live website: [https://rithikraj7.github.io/my-portfolio/]
 
 ## The portfolio website Contains
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Education](#education)
-- [Skills](#skills)
-- [Contact](#contact)
+- About Me
+- Projects
+- Education
+- Skills
+- Contact
 
 - Email: rithikraj1617@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/rithik-r-b14144244]
